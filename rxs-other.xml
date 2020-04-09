@@ -1,0 +1,4 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v1">
+		<prescription link="/printempw/rx-direct-share" />
+		<prescription link="/greenify/rx-baidu-sso" />
+</prescriptions>
